@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Anunay Kulshrestha"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Research Fellow at MIT Sloan School of Management"
   location         : "Boston, MA"
   employer         :
@@ -95,11 +95,11 @@ author:
   foursquare       :
   github           : "anunayk"
   google_plus      :
-  keybase          :
+  keybase          : "anunay"
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3596-2835"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
