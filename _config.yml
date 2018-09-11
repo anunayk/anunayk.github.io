@@ -82,7 +82,7 @@ author:
   name             : "Anunay Kulshrestha"
   avatar           : "profile.jpg"
   bio              : "Research Fellow at MIT Sloan School of Management"
-  location         : "Boston 🇺🇸 / New Delhi 🇮🇳"
+  location         : "🇺🇸 Boston / 🇮🇳 New Delhi"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0cyJByMAAAAJ&hl=en"
   email            : "anunay@mit.edu"
@@ -129,17 +129,14 @@ exclude:
   - assets/js/_main.js
   - assets/js/vendor
   - Capfile
-  - CHANGELOG
   - config
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
-  - LICENSE
   - log
   - node_modules
   - package.json
   - Rakefile
-  - README
   - tmp
 keep_files:
   - .git
