@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Anunay Kulshrestha"
 title_separator          : "-"
-name                     : &name "Anunay Kulshrestha"
+name                     : &name ""
 description              : &description "Research Fellow at MIT Sloan School of Management"
 url                      : https://anunayk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
