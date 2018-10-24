@@ -9,4 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+=============
 
+* 2017-2018: Master of Arts, Public Policy, Stanford University
+* 2013-2017: Bachelor of Science, Computer Science, Stanford University
+* 2013-2017: Bachelor of Science, Mathematics, Stanford University
