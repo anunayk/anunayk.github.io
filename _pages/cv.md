@@ -18,4 +18,23 @@ Education
 	Senior Project - _Cryptographically Secure Multiparty Computation and Distributed Auctions Using Homomorphic Encryption_    
 * **2013-2017: Bachelor of Science, Mathematics, Stanford University**  
 
----
+- - -
+
+Research Experience
+-------------------
+
+* **2018-2019: Research Fellow, Golub Center for Finance & Policy, MIT Sloan School of Management**  
+	Advisor - _Prof. Antoinette Schoar_  
+	Project - _Market Manipulation in Cryptocurrencies_  
+	
+* **2017-2018: Research Assistant, Center for Health Policy, Stanford University**  
+	Advisor - _Prof. David Studdert_  
+	Project - _Effect of Gun Ownership on Mortality & Arrest Rates_  
+	
+* **Summer 2015: Research Assistant, Department of Computer Science, Stanford University**  
+	Advisor - _Prof. Alex Aiken_  
+	Project - _Porting LULESH_  
+
+* **Winter 2014: Research Assistant, Department of Computer Science, Stanford University**  
+	Advisor - _Prof. Dan Boneh_  
+	Project - _Private Information Retrieval_  
