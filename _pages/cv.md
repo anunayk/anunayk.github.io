@@ -29,12 +29,21 @@ Research Experience
 	
 * **2017-2018: Research Assistant, Center for Health Policy, Stanford University**  
 	Advisor - _Prof. David Studdert_  
-	Project - _Effect of Gun Ownership on Mortality & Arrest Rates_  
+	Projects - _Impact of Political Partisanship on Firearm Acquisition_, _Effect of Firearm Acquisition on Mortality & Arrest Rates_,  
 	
 * **Summer 2015: Research Assistant, Department of Computer Science, Stanford University**  
 	Advisor - _Prof. Alex Aiken_  
-	Project - _Porting LULESH_  
+	Project - _Port of LULESH to the Legion parallel programming system_  
 
 * **Winter 2014: Research Assistant, Department of Computer Science, Stanford University**  
 	Advisor - _Prof. Dan Boneh_  
-	Project - _Private Information Retrieval_  
+	Project - _Private Information Retrieval in an Embedded System_  
+
+- - -
+
+Teaching Experience
+-------------------
+
+* **CS 155: Computer & Network Security, Stanford University** (Spring 2017, 2018)  
+* **CS 224W: Analysis of Networks, Stanford University** (Fall 2017)  
+* **CS 255: Introduction to Cryptography, Stanford University** (Winter 2017)
