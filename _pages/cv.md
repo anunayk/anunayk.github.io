@@ -10,13 +10,13 @@ redirect_from:
 Education
 ---------
 
-* **Master of Arts, Public Policy, Stanford University**, 2018  
-	* Concentration - _Legal & Regulatory Intervention_  
+* **M.A. in Public Policy, Stanford University**, 2018  
+	* Concentration: _Legal & Regulatory Intervention_  
 	* Thesis: _Bittersweet Fruits of Incumbency - Evidence from India_  
-* **Bachelor of Science, Computer Science, Stanford University**, 2017  
+* **B.S. in Computer Science, Stanford University**, 2017  
 	* Track: _Systems_  
 	* Senior Project: _Cryptographically Secure Multiparty Computation and Distributed Auctions Using Homomorphic Encryption_  
-* **Bachelor of Science, Mathematics, Stanford University**, 2017  
+* **B.S. in Mathematics, Stanford University**, 2017  
 
 - - -
 
