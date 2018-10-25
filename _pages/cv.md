@@ -23,23 +23,23 @@ Education
 Research Experience
 -------------------
 
-* **Research Fellow, Golub Center for Finance & Policy, MIT Sloan School of Management**  
-	* 2018-2019
+* **Research Fellow**  
+	* 2018-2019 / Golub Center for Finance & Policy, MIT Sloan School of Management  
 	* Advisor: _Prof. Antoinette Schoar_  
 	* Project: _Manipulation of Cryptocurrency Markets_  
 	
-* **Research Assistant, Center for Health Policy, Stanford University**  
-	* 2017-2018
+* **Research Assistant**  
+	* 2017-2018 / Center for Health Policy / Stanford University  
 	* Advisor: _Prof. David Studdert_  
 	* Projects: _Impact of Political Partisanship on Firearm Acquisition_, _Effect of Firearm Acquisition on Mortality & Arrest Rates_  
 	
-* **Research Assistant, Department of Computer Science, Stanford University**  
-	* Summer 2015  
+* **Research Assistant**  
+	* Summer 2015 / Department of Computer Science / Stanford University  
 	* Advisor: _Prof. Alex Aiken_  
 	* Project: _Port of LULESH to the Legion parallel programming system_  
 
-* **Research Assistant, Department of Computer Science, Stanford University**  
-	* Winter 2014
+* **Research Assistant**  
+	* Winter 2014 / Department of Computer Science / Stanford University  
 	* Advisor: _Prof. Dan Boneh_  
 	* Project: _Private Information Retrieval in an Embedded System_  
 
