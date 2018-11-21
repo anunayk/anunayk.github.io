@@ -5,4 +5,5 @@ excerpt: '_The course will cover recent research on the structure and analysis o
 date: 2017-09-23
 term: 'Fall 2017'
 professor: 'Jure Leskovec'
+link: 'http://web.stanford.edu/class/cs224w/'
 ---
