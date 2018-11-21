@@ -39,8 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-		 		<p>Prof. {{ post.professor }}</p>
-		 		<p>Term: {{ post.term }}</p>
+		 		<p>Prof. {{ post.professor }} / {{ post.term }}</p>
         {% elsif post.collection == 'research' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
